@@ -11,4 +11,6 @@
 > Create a script tag after `<script src="https://xchuangc.github.io/messagejs/message.js"></script>`:
 > `<script src="https://xchuangc.github.io/messagejs/message.js"></script>`
 > `<script>startXmessage(/*Config*/);</script>`
+
+
 > Config values: top: [Number], pos: ['right'/'left'], during:'[Number]s', background: [String ('linear-gradient()', '#xxxxxx', 'rgb()', 'rgba()')], fontSize: [Number]
