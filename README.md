@@ -26,6 +26,9 @@ Default: {top:0,pos:'right',during:'1s',background:'linear-gradient(90deg, #f111
 
 Deault : m='',type='tab',time=2000,width=200,padding=5,paddingLeft=40,paddingRight=40
 
+> Using mssage() function
+> > message(Variables)
+
 &nbsp; Xchuang Corp. 2022.
 
 **MIT LICENSE**
