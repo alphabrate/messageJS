@@ -4,14 +4,14 @@
 
 ### Import
 
-> Put `<script src="https://xchuangc.github.io/messagejs/message.js"></script>` at the bottom of `<body>`
+> Put `<script src="https://alphabrate.github.io/messagejs/message.js"></script>` at the bottom of `<body>`
 
 ### Config
 
-> Create a script tag after `<script src="https://xchuangc.github.io/messagejs/message.js"></script>`:
+> Create a script tag after `<script src="https://alphabrate.github.io/messagejs/message.js"></script>`:
 
 
-> `<script src="https://xchuangc.github.io/messagejs/message.js"></script>`
+> `<script src="https://alphabrate.github.io/messagejs/message.js"></script>`
 > `<script>startXmessage(/*Config*/);</script>`
 
 
